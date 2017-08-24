@@ -25,7 +25,7 @@
     "should": "~5.1.0"
   },
   "dependencies": {
-    "jison": "~0.4.15",
+    "jison": "git+https://github.com/SpiritIT/jison.git#fixdeps",
     "through2": "~0.6.3",
     "gulp-util": "~3.0.4"
   }
